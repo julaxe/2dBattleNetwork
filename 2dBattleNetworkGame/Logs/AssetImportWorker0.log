@@ -1,0 +1,162 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.0f1 (3721df5a8b28) revision 3613151'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16332 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\Julaxe\Documents\dev\Unity\2020.2.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Julaxe/Documents/dev/2dBattleNetwork/2dBattleNetworkGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49577
+Successfully changed project path to: C:/Users/Julaxe/Documents/dev/2dBattleNetwork/2dBattleNetworkGame
+C:/Users/Julaxe/Documents/dev/2dBattleNetwork/2dBattleNetworkGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 36.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0f1 (3721df5a8b28)
+[Subsystems] Discovering subsystems at path C:/Users/Julaxe/Documents/dev/Unity/2020.2.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Julaxe/Documents/dev/2dBattleNetwork/2dBattleNetworkGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 570 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     4075 MB
+    Driver:   27.20.21003.8013
+Initialize mono
+Mono path[0] = 'C:/Users/Julaxe/Documents/dev/Unity/2020.2.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/Julaxe/Documents/dev/Unity/2020.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/Julaxe/Documents/dev/Unity/2020.2.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56516
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/Julaxe/Documents/dev/Unity/2020.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001477 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 30.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.928 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000717 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 30.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.813 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.5 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2226.
+Total: 2.176400 ms (FindLiveObjects: 0.258100 ms CreateObjectMapping: 0.058600 ms MarkObjects: 1.743300 ms  DeleteObjects: 0.115500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/GreenGuy.psd
+  artifactKey: Guid(90936598ae08dc94582ca028bb3d2a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GreenGuy.psd using Guid(90936598ae08dc94582ca028bb3d2a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06ac272db1be49dd2988d2e2bbfe662') in 0.111334 seconds
+  Import took 0.114548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.573635 seconds.
+  path: Assets/Sprites/GreenGuy.psd
+  artifactKey: Guid(90936598ae08dc94582ca028bb3d2a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GreenGuy.psd using Guid(90936598ae08dc94582ca028bb3d2a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fdbd40fb0dfc266363c387928a7b54b') in 0.011956 seconds
+  Import took 0.015711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006153 seconds.
+  path: Assets/Sprites/GreenGuy.psd
+  artifactKey: Guid(90936598ae08dc94582ca028bb3d2a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GreenGuy.psd using Guid(90936598ae08dc94582ca028bb3d2a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fdbd40fb0dfc266363c387928a7b54b') in 0.006956 seconds
+  Import took 0.010137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.839904 seconds.
+  path: Assets/Sprites/GreenGuy.psd
+  artifactKey: Guid(90936598ae08dc94582ca028bb3d2a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GreenGuy.psd using Guid(90936598ae08dc94582ca028bb3d2a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '413c4d05e9ac4f171e9544b6b21a1705') in 0.024837 seconds
+  Import took 0.028689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.842244 seconds.
+  path: Assets/Sprites/GreenGuy.psd
+  artifactKey: Guid(90936598ae08dc94582ca028bb3d2a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GreenGuy.psd using Guid(90936598ae08dc94582ca028bb3d2a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baa93b7866bea53bdaa6d01628c1e3a3') in 0.020920 seconds
+  Import took 0.024426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 296.761215 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(519e4bc841193de49aace670360ff2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(519e4bc841193de49aace670360ff2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad648ffd295f07e348a654dcd5979f3') in 0.007421 seconds
+  Import took 0.010930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.361854 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(519e4bc841193de49aace670360ff2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(519e4bc841193de49aace670360ff2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c739c5d8474ae820cd7c8fa8b9481f8') in 0.007372 seconds
+  Import took 0.010744 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001023 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.738 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1782 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2247.
+Total: 2.034900 ms (FindLiveObjects: 0.213000 ms CreateObjectMapping: 0.042400 ms MarkObjects: 1.678600 ms  DeleteObjects: 0.100100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 351.570084 seconds.
+  path: Assets/Animations/Idle.anim
+  artifactKey: Guid(96193a22c9d80614fae6acfd31fffc55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Idle.anim using Guid(96193a22c9d80614fae6acfd31fffc55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aaa85bcfbb5b87d7524ddc7a9759bcc') in 0.021636 seconds
+  Import took 0.025521 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
